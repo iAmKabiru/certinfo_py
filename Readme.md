@@ -42,7 +42,7 @@ The list can be filtered by the following fields
     e.g
 
     https://certinfo-py.up.railway.app/api/v1/certificates?id=3
-    https://certinfo-py.up.railway.app/api/v1/certificates?certificated_id=00001A
+    https://certinfo-py.up.railway.app/api/v1/certificates?certificate_id=00001A
 
 
 
